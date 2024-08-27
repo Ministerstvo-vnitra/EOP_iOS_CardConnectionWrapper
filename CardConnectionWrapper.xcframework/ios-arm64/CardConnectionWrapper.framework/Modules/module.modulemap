@@ -1,0 +1,11 @@
+framework module CardConnectionWrapper {
+  umbrella header "CardConnectionWrapper.h"
+  export *
+
+  module * { export * }
+}
+
+module CardConnectionWrapper.Swift {
+  header "CardConnectionWrapper-Swift.h"
+  requires objc
+}
