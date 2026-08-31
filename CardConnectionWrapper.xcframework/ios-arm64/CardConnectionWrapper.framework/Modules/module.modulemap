@@ -7,5 +7,4 @@ framework module CardConnectionWrapper {
 
 module CardConnectionWrapper.Swift {
   header "CardConnectionWrapper-Swift.h"
-  requires objc
 }

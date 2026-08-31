@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CardConnectionWrapper-Swift.h</key>
 		<data>
-		ZhSz6Em+kOqo4sbFE8gnbfYgCwU=
+		/IxM8kM2OjqkUJxMVuMIVd/9i2U=
 		</data>
 		<key>Headers/CardConnectionWrapper.h</key>
 		<data>
@@ -14,31 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0xb6hNDDJkK0bnUwuaiLj06F+KU=
+		tP852TJCxQbq8UWsQ6RKMynCOX4=
 		</data>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		inPy0rO8/XKOSjlTlTF1fLgCGkk=
+		JSh8iJWbO+SVvVSam5BSiHa//y0=
 		</data>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		smqW9SThBE2Q6RtucygGm6kvb/0=
+		ARWpOkNDcrGbwXe7sMzwN+SOcWM=
 		</data>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		oo134anVR5/wla7AR/2kxiCcztU=
+		YC5oyZyVbDm1CMZK/kb5RJ9+Nt8=
 		</data>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		smqW9SThBE2Q6RtucygGm6kvb/0=
+		ARWpOkNDcrGbwXe7sMzwN+SOcWM=
 		</data>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		LBNERszKEhoDLYjmxYSml7VL178=
+		0waiiSKB0brMcxCyPCMAtdswC/M=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		4Bb+ltG7RNN6ikLuaPlQamO2V8c=
+		OWuvNuNT0Z4tQGFgSgrOtectR9c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mvm3F7NaTyrNnAgLPBOtY7m7ON1yfQYqito3G6CXaUA=
+			1aCtMl984k31amy2EzP4+UYrFUHG0SGTy/UB6ieiLus=
 			</data>
 		</dict>
 		<key>Headers/CardConnectionWrapper.h</key>
@@ -61,42 +61,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			o9nu3ngEi1jh8NmuOzmKbgeLSWXKSWIytIp8O3SqMhc=
+			H9IP8E85zeKiA9CWlHfDwaOSFbO1PpRFH7j31/o5rXU=
 			</data>
 		</dict>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tiBmHVrk0P1x2rWhTFymboxFXjbVaFdlzpj5Qi9L6as=
+			nwGwrUQPw+2G97uK54r/zcIH2FER4r2/t3MTK4KYN2M=
 			</data>
 		</dict>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			C9riZ0ii3pydMnIpfeHrDg/cODmXghJn6PCO5oQIrYI=
+			H/PbHKojDcuZ3V6wH7bA5UMCFfhO6qiAob9n/HfFJ78=
 			</data>
 		</dict>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tiBmHVrk0P1x2rWhTFymboxFXjbVaFdlzpj5Qi9L6as=
+			nwGwrUQPw+2G97uK54r/zcIH2FER4r2/t3MTK4KYN2M=
 			</data>
 		</dict>
 		<key>Modules/CardConnectionWrapper.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nLAdKmiflPdA1CpZQ6iGycj/8KV1kmcssJq16QEWlM8=
+			MPILbL9cYNWhJngsDs9G7V4kKyD3W8sAFpc69+Fs1bk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZVTTQ41VOZ3MTGkdsOEaDU+gawWFG3HHqT/7YZmOVkU=
+			0X/37dAX79e9QrjO5A9Ex8Ujm6j5ddGQvLvR9LE/aA4=
 			</data>
 		</dict>
 	</dict>
